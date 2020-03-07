@@ -1,8 +1,3 @@
-
-// By Mohamed Eladl
-// Spring 2018 CSCI 125 Project 
-// Sub-Class
-
 import java.util.ArrayList;
 public class GasPumpDisplay {
     public GasPumpDisplay(int numberOfPositions){
